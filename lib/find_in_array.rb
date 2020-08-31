@@ -9,12 +9,9 @@ def find_element_index(array, value_to_find)
        break if array[i] == value_to_find
        i += 1
      end  
-   i
-   binding.pry
-  else 
-    nil
+     i
 end
-
+binding.pry
   
     
         
