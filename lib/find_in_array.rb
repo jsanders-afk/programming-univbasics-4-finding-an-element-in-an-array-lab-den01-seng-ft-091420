@@ -11,13 +11,9 @@ def find_element_index(array, value_to_find)
        i += 1
      end  
      i
-
-
-
-
-
-
-
+  else
+    nil
+end
 end
 binding.pry
   
