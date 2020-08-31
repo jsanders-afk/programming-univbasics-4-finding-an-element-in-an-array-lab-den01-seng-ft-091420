@@ -8,11 +8,8 @@ def find_element_index(array, value_to_find)
   i = 0 
     while array[i] do
       break if array[i] == value_to_find
-      if i != value to find
       i += 1
     end  
-  
-  
   i
 end
 binding.pry
