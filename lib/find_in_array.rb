@@ -10,7 +10,8 @@ def find_element_index(array, value_to_find)
        i += 1
      end  
    i
-  end
+  else 
+    nil
 end
 binding.pry
   
